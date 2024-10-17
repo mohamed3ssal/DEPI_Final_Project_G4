@@ -17,8 +17,8 @@ Open the Final Project.pkt file in Cisco Packet Tracer to view the network desig
 Open the .docx file using any word processor (e.g., Microsoft Word).
 View the .pptx presentation using any presentation software (e.g., Microsoft PowerPoint).
 ## Team Members
-- **Mohamed Elsayed Ibrahem Sayed**: Lead Network Designer  
-- **Shady Hossam Eissa Abdelkhaleq**: Role  
-- **Ebrahem Mohamed Abdelmageed Hassan**: Role  
-- **Ahmed Sabry Mohamed El-Bayoumi**: Role
-- **Mohamed Ayman Nabawy Abd El-Maksoud**: Role
+- **Mohamed Elsayed Ibrahem Sayed**
+- **Shady Hossam Eissa Abdelkhaleq** 
+- **Ebrahem Mohamed Abdelmageed Hassan** 
+- **Ahmed Sabry Mohamed El-Bayoumi**
+- **Mohamed Ayman Nabawy Abd El-Maksoud**
