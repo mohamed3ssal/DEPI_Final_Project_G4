@@ -22,3 +22,7 @@ View the .pptx presentation using any presentation software (e.g., Microsoft Pow
 **3-Ebrahem Mohamed Abdelmageed Hassan**
 **4-Ahmed Sabry Mohamed El-Bayoumi**
 **5-Mohamed Ayman Nabawy Abd El-Maksoud**
+- **Mohamed Assal**: Lead Network Designer  
+- **[Other Team Member 1]**: Role  
+- **[Other Team Member 2]**: Role  
+- **[Other Team Member 3]**: Role
